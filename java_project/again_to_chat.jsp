@@ -1,0 +1,1 @@
+<jsp:forward page="disscussion_room.jsp" />

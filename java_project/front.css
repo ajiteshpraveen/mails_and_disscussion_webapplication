@@ -1,0 +1,25 @@
+
+
+div {
+	border-style: solid;
+	margin-top: 100px;
+	margin-left: 500px;
+	margin-right: 500px;
+
+}
+
+button {
+	margin-top: 30px;
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 5px 4px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+h1{
+    color: red;
+    
+}
